@@ -4,6 +4,7 @@
 ## helloWorld.py
 
 str = "! Hello World !"
-print("|n"+str);
+str = "! Bonjour le Monde !"
+print("\n"+str);
 
 ##
