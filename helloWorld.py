@@ -15,4 +15,9 @@ if a == 0:
     print("C'est fini!")
 
 print("Nouvelle modif")
+
+print("Branche B...")
+x, y = 1, 2
+print("x=", x, ", y=", y)
+
 ##
