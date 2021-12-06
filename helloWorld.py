@@ -11,4 +11,7 @@ a = 0
 l = [0,1,1,2,3,5]
 print("a=", a, "l=", l)
 
+if a == 0:
+    print("C'est fini!")
+
 ##
